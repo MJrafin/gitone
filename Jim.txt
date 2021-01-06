@@ -1,4 +1,4 @@
 void main()
 {
-	printf("If you need any regarding this project contact with my assitant");
+	printf("If you need any help regarding this project contact with my assitant");
 }
